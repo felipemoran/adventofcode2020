@@ -1,0 +1,8 @@
+a bags contain 1 b bag, 1 c bag.
+b bags contain 1 f bag, 1 g bag.
+f bags contain 1 a bag.
+c bags contain 1 g bag.
+g bags contain 1 h bag.
+h bags contain no other bags.
+d bags contain 1 c bag, 1 e bag.
+e bags contain no other bags.
